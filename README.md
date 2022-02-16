@@ -1,14 +1,16 @@
 # P2P-File-Service
 Building the frameworks behind the infamous Napster service in a weekend!
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 60%;"
-    src="images/p2pImage.jpeg" 
-    alt="Peer-To-Peer Image">
-</img>
+<div style="text-align: center;">
+    <img 
+        style="display: block; 
+            margin-left: auto;
+            margin-right: auto;
+            width: 60%;"
+        src="images/p2pImage.jpeg" 
+        alt="Peer-To-Peer Image">
+    </img>
+</div>
 
 
 In this demo, Client 1 and Client 2 are running on separate networks. To demonstrate this on our device, we assign them distinct TCP Ports (simulating a separate internet address internet) and separate the connections with isolated threads.
